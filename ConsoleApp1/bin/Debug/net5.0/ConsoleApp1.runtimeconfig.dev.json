@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cikra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cikra\\.nuget\\packages"
+    ]
+  }
+}
